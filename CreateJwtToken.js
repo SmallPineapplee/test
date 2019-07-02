@@ -18,7 +18,7 @@
 'use strict'
 var jwt = require('jwt-simple');
 
-//payload按照文档说明生成就好，此处只是一个范例.
+//payload按照文档说明生成就好，此处只是一个范例，根据文档要求自行更改payload
 var payload =
 {
 	"sub":"xxxxxxx",
