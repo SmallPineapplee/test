@@ -1,5 +1,5 @@
 
-/*test
+/*zhouminhua
 #用于生成Jwt Token的js demon.
 #我们使用windows终端运行js demon，生成jwt token.
 第1步:如果没有安装node.js首先需要安装node.js(Node.js 安装包及源码下载地址为：https://nodejs.org/en/download/。)
